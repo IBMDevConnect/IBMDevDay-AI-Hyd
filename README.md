@@ -26,15 +26,9 @@
 
 ## Code Patterns
 
-[https://developer.ibm.com/code/patterns/create-cognitive-retail-chatbot/](https://developer.ibm.com/code/patterns/create-cognitive-retail-chatbot/)
-
 [https://developer.ibm.com/code/patterns/create-cognitive-banking-chatbot/](https://developer.ibm.com/code/patterns/create-cognitive-banking-chatbot/)
 
-[https://developer.ibm.com/code/patterns/analyze-sms-messages-with-watson-knowledge-studio/](https://developer.ibm.com/code/patterns/analyze-sms-messages-with-watson-knowledge-studio/)
-
 [https://developer.ibm.com/code/patterns/create-an-app-to-perform-intelligent-searches-on-data/](https://developer.ibm.com/code/patterns/create-an-app-to-perform-intelligent-searches-on-data/)
-
-[https://developer.ibm.com/code/patterns/deploy-a-core-ml-model-with-watson-visual-recognition/](https://developer.ibm.com/code/patterns/deploy-a-core-ml-model-with-watson-visual-recognition/)
 
 ## Feedback
 
