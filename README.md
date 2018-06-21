@@ -4,7 +4,9 @@
 
 09:45 - 10:00	- OPENING SESSION: IBM Developer Way
 
-10:00 - 11:00	- TECH TALK: Introduction to IBM Watson & API's
+10:00 - 10:30	- TECH TALK: Introduction to IBM Watson & API's
+
+10:30 - 11:00 - DEMO: A Virtual Shopping Assistant 
 
 11:00 - 12:30	- WORKSHOP: Build Watson powered conversational bots
 
@@ -23,6 +25,7 @@
 3. Signup for a free GitHub account, if not already done  - [https://github.com/](https://github.com/)
 4. Install a Git command line or GUI client - [https://git-scm.com/downloads/](https://git-scm.com/downloads/)
 5. Download & install Node.JS- [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
+6. Install cURL- [https://curl.haxx.se/download.html](https://curl.haxx.se/download.html)
 
 ## Code Patterns
 
