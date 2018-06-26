@@ -33,6 +33,10 @@
 
 [https://developer.ibm.com/code/patterns/create-an-app-to-perform-intelligent-searches-on-data/](https://developer.ibm.com/code/patterns/create-an-app-to-perform-intelligent-searches-on-data/)
 
+[https://developer.ibm.com/code/patterns/deploy-a-core-ml-model-with-watson-visual-recognition/](https://developer.ibm.com/code/patterns/deploy-a-core-ml-model-with-watson-visual-recognition/)
+
+[https://developer.ibm.com/code/patterns/create-a-web-app-to-get-stock-information-prices-and-sentiment/](https://developer.ibm.com/code/patterns/create-a-web-app-to-get-stock-information-prices-and-sentiment/)
+
 ## Feedback
 
 Please provide your session feedback here:[https://sessionfeedback.mybluemix.net/](https://sessionfeedback.mybluemix.net/)
