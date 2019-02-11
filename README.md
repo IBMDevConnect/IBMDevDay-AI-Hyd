@@ -1,4 +1,4 @@
-# IBM Developer Day-Artificial Intelligence-Hyderabad- Resources
+# IBM Dev Day-Artificial Intelligence-Hyderabad- Resources
 
 ## Agenda
 
